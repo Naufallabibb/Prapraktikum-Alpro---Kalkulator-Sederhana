@@ -37,6 +37,9 @@ int main()
 	int x, y, ta, ku, ka;
 	float pa, ba,ak;
 	string p;
+	cout<<"Suryadi (2100018369)"<<endl;
+	cout<<"M. Naufal Labib Ramadhan (2100018378)"<<endl;
+	cout<<"Daffa Nauval Hadi Pratama (2100018388)"<<endl;
 	cout<<"||	Menu\t\t||"<<endl;
 	cout<<"||======================||"<<endl;
 	cout<<"||1. Penjumlahan\t||"<<endl;
